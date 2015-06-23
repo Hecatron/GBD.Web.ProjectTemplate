@@ -1,0 +1,16 @@
+title:            Project Template
+description:      "A Jekyll based Project Template for github projects"
+logo:             site_logo.png
+disqus_shortname: gbd_web_project_template
+
+# Change baseurl to the leading path after the domain
+# see http://jekyllrb.com/docs/github-pages/
+# to override Start Jekyll with: jekyll serve --baseurl ''
+baseurl: /GBD.Web.ProjectTemplate
+
+# GitHub Url for the project this page refereces
+projecturl: https://github.com/grbd/GBD.Web.ProjectTemplate
+
+# Include .nojekyll so that the final rendered page isn't re-rendered by github's jekyll which doesn't have plugins
+include: [".nojekyll"]
+exclude: ["Deploy.bat"]
