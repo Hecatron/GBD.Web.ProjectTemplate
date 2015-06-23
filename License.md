@@ -2,7 +2,6 @@
 layout: main
 permalink: /license/index.html
 title: License
-description: "License for Jekyll theme."
 ---
 
 The MIT License (MIT)

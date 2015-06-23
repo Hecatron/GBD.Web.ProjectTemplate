@@ -1,3 +1,9 @@
+---
+layout: main
+permalink: /index.html
+title: GBD.Web.ProjectTemplate
+---
+
 # Project Template Theme
 
 ## Overview
