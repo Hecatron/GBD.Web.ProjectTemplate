@@ -11,4 +11,3 @@ Code Block:
 
     cd /root/
     echo "Hello World"
-

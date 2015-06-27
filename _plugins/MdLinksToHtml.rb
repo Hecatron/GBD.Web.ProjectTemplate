@@ -1,4 +1,4 @@
-module ChangeLocalMdLinksToHtml
+module JekyllPlugin
   class Generator < Jekyll::Generator
     def generate(site)
       site.pages.each { |p| rewrite_links(site, p) }
